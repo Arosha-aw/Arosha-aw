@@ -9,15 +9,12 @@ I'm a business analyst who enjoys turning messy ideas into practical solutions�
 - **MS Excel**
 - **Power BI**
 - **Python**
-  
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/sempostma/office365-icons@master/svg/excel.svg" height="45" width="45" alt="excel logo"  />
-	<img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons@24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" height="45" width="45" alt="Power BI        Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" width="45" alt="Python logo" />
-  
- 	
- 
-</div>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sempostma/office365-icons@master/svg/excel.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons@24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+</p>
 
 ## 🚀 Stuff I Can’t Ignore
 - Building solutions that make a real difference
